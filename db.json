@@ -1,0 +1,24 @@
+{
+  "truckList": [
+    {
+      "DriverName": "Ranym ",
+      "TourNumber": 8,
+      "StarTime": "06:59",
+      "FinishingTime": "20:00",
+      "DeliveredBox": 8,
+      "truckBrand": "YES",
+      "date": "2022-06-06T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "DriverName": "aze",
+      "TourNumber": 4,
+      "StarTime": "04:01",
+      "FinishingTime": "04:03",
+      "DeliveredBox": 5,
+      "truckBrand": "NO",
+      "date": "2022-06-05T23:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
